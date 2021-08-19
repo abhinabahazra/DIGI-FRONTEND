@@ -1,0 +1,9 @@
+.readmore_img {
+    height: 70px  ;
+    width: 70px;
+    border-radius: 50%;
+margin-left: 50px;
+  }
+  .readmore_img b{
+    font-size: 10px;
+  }
